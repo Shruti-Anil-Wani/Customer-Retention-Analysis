@@ -1,2 +1,3 @@
 # Customer-Retention-Analysis
-This project aims to identify key factors influencing customer churn in the bank. By providing actionable insights, it enables targeted retention strategies to improve customer satisfaction, reduce churn rate, and enhance overall business profitability.
+
+The objective of the Customer Retention Analysis using Power BI is to analyze customer churn patterns and identify the key factors influencing customer attrition within the bank. The analysis aims to provide actionable insights to the bank's management and marketing teams, enabling them to implement targeted retention strategies, improve customer satisfaction, and reduce churn rate. Through data visualization and exploration, the analysis will help in understanding the underlying reasons for customer churn, segmenting high-risk customer groups, and formulating data-driven decisions to enhance customer retention and overall business profitability.
